@@ -1,4 +1,5 @@
-# momentum-app
+# Momentum App
+HTML, Javascript, CSS
 
 ### Features
 1. Allows the user to input his name in order to display the greeting message.
@@ -9,4 +10,5 @@
 
 ![image](https://user-images.githubusercontent.com/132346222/235634540-639aea26-2e43-44c8-8555-3330ffcb9032.png)
 ![image](https://user-images.githubusercontent.com/132346222/235634683-575b42a8-2970-43b7-b141-cc591ff01c1e.png)
-# momentum-app
+
+# Live: [https://brandmoredev.github.io/momentum-app](url)
