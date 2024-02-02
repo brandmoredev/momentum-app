@@ -11,4 +11,4 @@ HTML, Javascript, CSS
 ![image](https://user-images.githubusercontent.com/132346222/235634540-639aea26-2e43-44c8-8555-3330ffcb9032.png)
 ![image](https://user-images.githubusercontent.com/132346222/235634683-575b42a8-2970-43b7-b141-cc591ff01c1e.png)
 
-# Live: [https://brandmoredev.github.io/momentum-app](url)
+# Live: [Momentum App](https://brandmoredev.github.io/momentum-app/)
